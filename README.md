@@ -1,5 +1,5 @@
 <p align="center">
-	<a href="https://pmmp.io"><img src="http://cdn.pocketmine.net/img/PocketMine-MP-h.png"></img></a><br>
+	<a href="https://pmmp.io"><img src="https://media.discordapp.net/attachments/730821710781218857/767013031636500541/Screenshot_20201016_214701.png"></img></a><br>
 	<b>A highly customisable, open source server software for Minecraft: Bedrock Edition written in PHP</b>
 </p>
 
